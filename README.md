@@ -20,7 +20,9 @@ This repository contains an AI-powered Text Emotion Detection Web Application, d
 ## Getting Started
 To get started, clone or download the repository to your local machine. Explore the codebase to understand the architecture of the AI-based Text Emotion Detector.
 
-## Contact
-If you have any questions or feedback, feel free to reach out to me.
+### App Screenshot
 
 ![image](https://github.com/user-attachments/assets/71d3d9c1-95c4-4803-8ae7-d2bc751e157b)
+
+### Contact
+If you have any questions or feedback, feel free to reach out to me.
