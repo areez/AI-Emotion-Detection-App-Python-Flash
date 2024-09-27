@@ -1,3 +1,6 @@
+"""
+This is the test file of the emotion_detector() function.
+"""
 from EmotionDetection.emotion_detection import emotion_detector
 import unittest
 
